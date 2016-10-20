@@ -1,0 +1,25 @@
+ move 600 190 1
+ standby 18
+ rotate 90 2
+ swerve 360 28 3
+ scale 1 1 
+ standby 7
+ die 1
+ live 1 
+ die 1 
+ live 1 
+ die 1 
+ live 1
+ die 1 
+ live 1 
+ die 1 
+ live 1
+ die 1
+ live 1
+ standby 2
+ rotate 180 2
+ standby 16
+ scale 2 1
+ rotate 0 3
+ standby 24
+ die 1

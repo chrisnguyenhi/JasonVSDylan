@@ -1,0 +1,14 @@
+die 1 
+standby 35
+live 1
+move 30 80 1
+scale 2 1
+die 1 
+move 400 342 1
+scale 3 1
+live 1
+die 1 
+move 650 90 1
+live 1 
+move 0 500 1
+die 1

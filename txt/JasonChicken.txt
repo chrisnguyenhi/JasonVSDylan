@@ -1,0 +1,2 @@
+standby 45
+die 1

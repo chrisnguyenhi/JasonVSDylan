@@ -1,0 +1,2 @@
+standby 33
+die 1

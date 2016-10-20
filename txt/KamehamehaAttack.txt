@@ -1,0 +1,6 @@
+die 1 
+rotate 160 1
+standby 30
+live 1
+move 800 20 1
+die 1 

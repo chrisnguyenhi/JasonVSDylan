@@ -1,0 +1,8 @@
+die 1
+standby 63
+live 1
+scale 2 1
+swerve 360 2 3
+move 400 100 1
+scale 8 2
+die 1

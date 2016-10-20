@@ -1,0 +1,2 @@
+standby 52
+die 1

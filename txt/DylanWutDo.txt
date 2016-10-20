@@ -1,0 +1,2 @@
+standby 8
+die 1

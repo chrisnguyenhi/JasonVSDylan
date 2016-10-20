@@ -1,0 +1,53 @@
+move 150 350 1
+standby 11 
+scale 2 1
+scale 1 1 
+standby 16
+move 150 360 1
+rotate 10 1
+standby 10
+die 1 
+live 1 
+die 1 
+live 1
+die 1 
+live 1
+standby 26 
+die 1 
+live 1 
+die 1 
+live 1
+die 1 
+live 1
+die 1 
+live 1 
+die 1 
+live 1
+die 1 
+live 1
+die 1 
+live 1 
+die 1 
+live 1
+die 1 
+live 1
+die 1 
+live 1 
+die 1 
+live 1
+die 1 
+live 1
+die 1 
+live 1 
+die 1 
+live 1
+die 1 
+live 1
+standby 2
+swerve 320 8 1
+move 100 2 1
+move 700 800 1
+scale 1 1 
+standby 3 
+die 1
+ 

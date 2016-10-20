@@ -1,0 +1,2 @@
+standby 4
+die 1

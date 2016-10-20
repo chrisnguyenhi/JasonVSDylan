@@ -1,0 +1,16 @@
+die 1
+standby 26
+live 1 
+scale 5 1
+move 520 0 2
+die 1
+standby 16 
+live 1
+rotate 180 2
+move 430 200 1
+scale 1 2
+standby 2
+rotate 0 1
+scale 3 2
+move 430 0 1
+die 1

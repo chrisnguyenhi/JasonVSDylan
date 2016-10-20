@@ -1,0 +1,2 @@
+standby 70
+die 1
